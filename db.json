@@ -38,25 +38,25 @@
           "id": 1,
           "img": "assets/img/business_red.png",
           "heading": "Vertrauen",
-          "desc": "Vermittlung ist Vertrauenssache – uns ist eine erfolgreiche und nachhaltige Zusammenarbeit wichtig."
+          "desc": "Vermittlung ist Vertrauenssache – uns ist eine erfolgreiche und nachhaltige Zusammenarbeit auf Vertrauensbasis wichtig, weshalb wir Ihre Informationen diskret behandeln."
       },
       {
           "id": 2,
           "img": "assets/img/thumbs-up_red.png",
           "heading": "Engagement",
-          "desc": "Wir setzen uns mit Engagement und Freude ein und legen den Fokus auf das Wesentliche."
+          "desc": "Wir setzen uns mit Engagement und Freude ein und legen den Fokus auf das Wesentliche. Unser Anspruch ist dabei, Kunden und Kandidaten auf höchstem Niveau zu beraten."
       },
       {
           "id": 3,
           "img": "assets/img/user_red.png",
           "heading": "Menschenbezogenheit",
-          "desc": "Humanität, Zuverlässigkeit und persönliche Betreuung sind daher die Leitmotive unseres Handelns."
+          "desc": "Der Mensch steht bei uns im Mittelpunkt unserer Tätigkeit. Humanität, Zuverlässigkeit und persönliche Betreuung sind daher die Leitmotive unseres Handelns."
       },
       {
           "id": 4,
           "img": "assets/img/puzzle_red.png",
           "heading": "Flexibilität",
-          "desc": "Wir legen grossen Wert auf Flexibilität und sind stets bestrebt, mit Ihnen individuelle Lösungen zu erarbeiten."
+          "desc": "Da wir grossen Wert auf Flexibilität legen, sind wir stets bestrebt, mit Ihnen gemeinsam individuelle Lösungen zu erarbeiten."
       }
   ],
   "workwith": [
