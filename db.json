@@ -3,7 +3,7 @@
       {
           "id": 1,
           "img": "assets/img/slider1.jpg",
-          "heading": "Willkommen bei \n worknet ag!",
+          "heading": "Willkommen bei \\n worknet ag!",
           "content": "Wir arbeiten für Sie",
           "page": "job",
           "pageDec": "Finde Deinen nächsten Job"
@@ -11,7 +11,7 @@
       {
           "id": 2,
           "img": "assets/img/slider2.jpg",
-          "heading": "Bei uns steht der Mensch \n im Mittelpunkt.",
+          "heading": "Bei uns steht der Mensch \\n im Mittelpunkt.",
           "content": "",
           "page": "job",
           "pageDec": "Finde Deinen nächsten Job"
@@ -19,7 +19,7 @@
       {
           "id": 3,
           "img": "assets/img/slider3.jpg",
-          "heading": "Wir vernetzen Arbeit und bringen \n Menschen erfolgreich zusammen.",
+          "heading": "Wir vernetzen Arbeit und bringen \\n Menschen erfolgreich zusammen.",
           "content": "",
           "page": "job",
           "pageDec": "Finde Deinen nächsten Job"
@@ -27,7 +27,7 @@
       {
           "id": 4,
           "img": "assets/img/slider4.jpg",
-          "heading": "Wir bieten massgeschneiderte \n Personallösungen an.",
+          "heading": "Wir bieten massgeschneiderte \\n Personallösungen an.",
           "content": "",
           "page": "job",
           "pageDec": "Finde Deinen nächsten Job"
