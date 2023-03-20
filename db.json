@@ -4,41 +4,33 @@
           "id": 1,
           "img": "assets/img/slider1.jpg",
           "heading": "Willkommen bei worknet ag!",
-          "content": "Wir vernetzen Arbeit und bringen Menschen erfolgreich zusammen.",
+          "content": "Wir arbeiten für Sie",
           "page": "job",
           "pageDec": "Finde Deinen nächsten Job"
       },
       {
           "id": 2,
           "img": "assets/img/slider2.jpg",
-          "heading": "Job Angebote bringen kaum gute Bewerbungen?",
-          "content": "Wir helfen Dir dabei passende Mitarbeiter:innen zu finden und zu kontaktieren, damit Du offene Stellen in kürzester Zeit besetzen können!",
-          "page": "unternehmen",
-          "pageDec": "Jetzt Starten"
+          "heading": "Bei uns steht der Mensch im Mittelpunkt.",
+          "content": "",
+          "page": "job",
+          "pageDec": "Finde Deinen nächsten Job"
       },
       {
           "id": 3,
           "img": "assets/img/slider3.jpg",
-          "heading": "Wir wissen wie zeitraubend die Jobsuche sein kann!",
-          "content": "Deshalb übernehmen wir die Arbeit für Dich und bieten Dir Jobs, die zu Deinen Erfahrungen, Wünschen und Gehaltsvorstellungen passen.",
-          "page": "bewerberlnnen",
-          "pageDec": "Jetzt Starten"
+          "heading": "Wir vernetzen Arbeit und bringen Menschen erfolgreich zusammen.",
+          "content": "",
+          "page": "job",
+          "pageDec": "Finde Deinen nächsten Job"
       },
       {
           "id": 4,
           "img": "assets/img/slider4.jpg",
-          "heading": "Lerne die Gesichter hinter worknet ag kennen!",
-          "content": "Entdecke das engagierte Team, das seit 2005 Top-Stellensuchende mit führenden Unternehmen zusammenbringt.",
-          "page": "team",
-          "pageDec": "Jetzt Starten"
-      },
-      {
-          "id": 5,
-          "img": "assets/img/slider5.jpg",
-          "heading": "Kontaktiere Uns!",
-          "content": "Persönlich überprüfte Teilnehmer:innen, die qualifiziert und an Ihrem Angebot interessiert sind.",
-          "page": "kontak",
-          "pageDec": ""
+          "heading": "Wir bieten massgeschneiderte Personallösungen an.",
+          "content": "",
+          "page": "job",
+          "pageDec": "Finde Deinen nächsten Job"
       }
   ],
   "aboutBx": [
