@@ -2,12 +2,13 @@
     "page": [
         {
             "id": 1,
-            "name": "Über Uns",
+            "name": "about",
             "year": "2005",
             "img": "assets/img/about-img.jpg",
             "banner": "assets/img/slider1.jpg",
             "heading": "Willkommen bei worknet ag!",
             "subHeading": "Wir vernetzen Arbeit und bringen Menschen erfolgreich zusammen.",
+            "subTitle": "Über Uns",
             "title": "Wir vernetzen Arbeit und bringen Menschen erfolgreich zusammen.",
             "desc": "Als Bindeglied zwischen Arbeitsuchenden und Unternehmen steht worknet ag dafür, Erfolge durch flexible Personaldienstleistungen tatkräftig zu unterstützen.",
             "list": [
@@ -27,12 +28,13 @@
         },
         {
             "id": 2,
-            "name": "Für Unternehmen",
+            "name": "company",
             "year": "64",
             "img": "assets/img/img1.jpg",
             "banner": "assets/img/slider2.jpg",
             "heading": "Job Angebote bringen kaum gute Bewerbungen?",
             "subHeading": "Wir helfen Dir dabei passende Mitarbeiter:innen zu finden und zu kontaktieren, damit Du offene Stellen in kürzester Zeit besetzen können!",
+            "subTitle": "Für Unternehmen",
             "title": "Lerne potenzielle Mitarbeiter:innen kennen.",
             "desc": "worknet ag hilft Dir dabei…",
             "list": [
@@ -52,12 +54,13 @@
         },
         {
             "id": 3,
-            "name": "Für Bewerber:innen",
+            "name": "application",
             "year": "2005",
             "img": "assets/img/img2.jpg",
             "banner": "assets/img/slider3.jpg",
             "heading": "Wir wissen wie zeitraubend die Jobsuche sein kann!",
             "subHeading": "Deshalb übernehmen wir die Arbeit für Dich und bieten Dir Jobs, die zu Deinen Erfahrungen, Wünschen und Gehaltsvorstellungen passen.",
+            "subTitle": "Für Bewerber:innen",
             "title": "Erfahren Sie von geeigneten Stellen, ohne danach zu suchen.",
             "desc": "worknet ag hilft Dir dabei…",
             "list": [
@@ -77,12 +80,13 @@
         },
         {
             "id": 4,
-            "name": "Über Uns",
+            "name": "team",
             "year": "2005",
             "img": "assets/img/about-img.jpg",
             "banner": "assets/img/slider4.jpg",
             "heading": "Lerne die Gesichter hinter worknet ag kennen!",
             "subHeading": "Entdecke das engagierte Team, das seit 2005 Top-Stellensuchende mit führenden Unternehmen zusammenbringt.",
+            "subTitle": "Über Uns",
             "title": "Wir vernetzen Arbeit und bringen Menschen erfolgreich zusammen.",
             "desc": "Als Bindeglied zwischen Arbeitsuchenden und Unternehmen steht worknet ag dafür, Erfolge durch flexible Personaldienstleistungen tatkräftig zu unterstützen.",
             "list": [
@@ -102,12 +106,13 @@
         },
         {
             "id": 5,
-            "name": "Kontaktiere Uns!",
+            "name": "contact",
             "year": "",
             "img": "",
             "banner": "assets/img/slider5.jpg",
             "heading": "Kontaktiere Uns!",
             "subHeading": "Persönlich überprüfte Teilnehmer:innen, die qualifiziert und an Ihrem Angebot interessiert sind.",
+            "subTitle": "",
             "title": "",
             "desc": ""
         }
