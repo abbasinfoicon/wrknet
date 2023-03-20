@@ -200,7 +200,8 @@
             "title": "Lerne Mitarbeiter:innen kennen, die Du sonst nie getroffen hättest.",
             "content": "Job Angebote bringen kaum gute Bewerbungen?",
             "desc": "Wir helfen Dir dabei passende Mitarbeiter:innen zu finden und zu kontaktieren, damit Du offene Stellen in kürzester Zeit besetzen kannst!",
-            "link": "unternehmen"
+            "linkText": "Erfahre Mehr",
+            "link":"unternehmen"
         },
         {
             "id": 2,
@@ -209,7 +210,8 @@
             "title": "Erfahre von geeigneten Stellen, ohne selbst danach suchen zu müssen.",
             "content": "Unser Team weiß, wie zeitraubend die Jobsuche sein kann!",
             "desc": "Deshalb übernehmen auch wir die Arbeit für Dich und bieten Dir Jobs, die zu Deinen Erfahrungen, Wünschen und Gehaltsvorstellungen passen.",
-            "link": "bewerberlnnen"
+            "linkText": "Erfahre Mehr",
+            "link":"bewerberlnnen"
         },
         {
             "id": 3,
@@ -218,7 +220,8 @@
             "title": "Flexible Lösungen für Dein Unternehmen",
             "content": "Erhalte von der worknet ag hoch qualifiziertes Personal für den kurzfristigen Einsatz, um Engpässe oder auch planbare Personalausfälle abzufedern.",
             "desc": "Du entscheidest den Beginn und das Ende der Einsätze, unabhängig davon ob diese projektbezogen bzw. kurz- oder langfristig sind.",
-            "link": ""
+            "linkText": "",
+            "link":""
         },
         {
             "id": 4,
@@ -227,7 +230,8 @@
             "title": "Langfristige Unterstützung für Dein Team",
             "content": "Ergänze Dein Unternehmen nachhaltig durch eine professionelle Fachkraft in Festanstellung oder Kaderposition.",
             "desc": "Die worknet ag stützt sich dabei auf bewährte Praktiken der Personalauswahl und führt alle zeitaufwändigen Interviews für Sie durch.!",
-            "link": ""
+            "linkText": "",
+            "link":""
         },
         {
             "id": 5,
@@ -236,7 +240,8 @@
             "title": "Professionelle Verwaltung und Administration",
             "content": "Die worknet ag übernimmt jeglichen bürokratischen Aufwand.",
             "desc": "Überlasse uns das Vertragsmanagement und die gesamte Lohnadministration Ihres Personals.",
-            "link": ""
+            "linkText": "",
+            "link":""
         },
         {
             "id": 6,
@@ -245,7 +250,8 @@
             "title": "Reduktion der Arbeitgeberrisiken",
             "content": "Vor einer definitiven Anstellungen kannst Du potenzielle Kandidat:Innen während einer dreimonatigen Probezeit erst richtig kennenlernen.",
             "desc": "In dieser Zeit ist das Personal temporär über worknet ag angestellt, bevor es endgültig von Dir übernommen wird.",
-            "link": ""
+            "linkText": "",
+            "link":""
         },
         {
             "id": 7,
@@ -254,7 +260,8 @@
             "title": "Lass uns Dein persönlicher Partner werden!",
             "content": "",
             "desc": "Lass uns wissen, welche Fachkraft Du konkret suchst und wir unterstützen Dich zuverlässig dabei, passgenaue temporäre oder festangestellte Mitarbeiter zu finden.",
-            "link": "mailto:info@worknet.ag"
+            "linkText": "Los geht’s",
+            "link":"mailto:info@worknet.ag"
         }
     ],
     "workwith": [
