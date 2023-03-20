@@ -3,7 +3,8 @@
         {
             "id": 1,
             "name": "about",
-            "year": "2005",
+            "startVal": "2023",
+            "endVal": "2005",
             "img": "assets/img/about-img.jpg",
             "banner": "assets/img/slider1.jpg",
             "heading": "Willkommen bei worknet ag!",
@@ -31,7 +32,8 @@
         {
             "id": 2,
             "name": "company",
-            "year": "64",
+            "startVal": "0",
+            "endVal": "64",
             "img": "assets/img/img1.jpg",
             "banner": "assets/img/slider2.jpg",
             "heading": "Job Angebote bringen kaum gute Bewerbungen?",
@@ -59,7 +61,8 @@
         {
             "id": 3,
             "name": "application",
-            "year": "2005",
+            "startVal": "2023",
+            "endVal": "2005",
             "img": "assets/img/img2.jpg",
             "banner": "assets/img/slider3.jpg",
             "heading": "Wir wissen wie zeitraubend die Jobsuche sein kann!",
@@ -87,7 +90,8 @@
         {
             "id": 4,
             "name": "team",
-            "year": "2005",
+            "startVal": "2023",
+            "endVal": "2005",
             "img": "assets/img/about-img.jpg",
             "banner": "assets/img/slider4.jpg",
             "heading": "Lerne die Gesichter hinter worknet ag kennen!",
@@ -115,7 +119,8 @@
         {
             "id": 5,
             "name": "contact",
-            "year": "",
+            "startVal": "",
+            "endVal": "",
             "img": "",
             "banner": "assets/img/slider5.jpg",
             "heading": "Kontaktiere Uns!",
@@ -140,7 +145,7 @@
             "id": 2,
             "img": "assets/img/slider2.jpg",
             "heading": "Bei uns steht der Mensch\nim Mittelpunkt.",
-            "content": "",
+            "content": "Wir vernetzen Arbeit und bringen Menschen erfolgreich zusammen.",
             "page": "job",
             "pageDec": "Finde Deinen nächsten Job"
         },
@@ -148,7 +153,7 @@
             "id": 3,
             "img": "assets/img/slider3.jpg",
             "heading": "Wir vernetzen Arbeit und bringen\nMenschen erfolgreich zusammen.",
-            "content": "",
+            "content": "Wir vernetzen Arbeit und bringen Menschen erfolgreich zusammen.",
             "page": "job",
             "pageDec": "Finde Deinen nächsten Job"
         },
@@ -156,7 +161,7 @@
             "id": 4,
             "img": "assets/img/slider4.jpg",
             "heading": "Wir bieten massgeschneiderte\nPersonallösungen an.",
-            "content": "",
+            "content": "Wir vernetzen Arbeit und bringen Menschen erfolgreich zusammen.",
             "page": "job",
             "pageDec": "Finde Deinen nächsten Job"
         }
