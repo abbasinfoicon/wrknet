@@ -24,7 +24,9 @@
                     "id": 3,
                     "text": "Wir erweitern unsere Personallösungen für unsere Kunden stets und passen uns an die individuellen Bedürfnisse unserer Partner an."
                 }
-            ]
+            ],
+            "link":"team",
+            "linkText":"Unser Team"
         },
         {
             "id": 2,
@@ -50,7 +52,9 @@
                     "id": 3,
                     "text": "bei der Rekrutierung Geld zu sparen."
                 }
-            ]
+            ],
+            "link":"mailto:info@worknet.ag",
+            "linkText":"Los geht’s"
         },
         {
             "id": 3,
@@ -76,7 +80,9 @@
                     "id": 3,
                     "text": "Bei der Neuausrichtung im beruflichen Leben. Für eine individuelle Newplacement Lösung freuen wir uns auf Ihre Kontaktaufnahme."
                 }
-            ]
+            ],
+            "link":"mailto:info@worknet.ag",
+            "linkText":"Los geht’s"
         },
         {
             "id": 4,
@@ -102,7 +108,9 @@
                     "id": 3,
                     "text": "Wir erweitern unsere Personallösungen für unsere Kunden stets und passen uns an die individuellen Bedürfnisse unserer Partner an."
                 }
-            ]
+            ],
+            "link":"mailto:info@worknet.ag",
+            "linkText":"Jetzt Bewerben"
         },
         {
             "id": 5,
@@ -114,7 +122,9 @@
             "subHeading": "Persönlich überprüfte Teilnehmer:innen, die qualifiziert und an Ihrem Angebot interessiert sind.",
             "subTitle": "",
             "title": "",
-            "desc": ""
+            "desc": "",
+            "link":"",
+            "linkText":""
         }
     ],
     "slider": [
