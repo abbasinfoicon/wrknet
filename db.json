@@ -40,7 +40,7 @@
             "subHeading": "Wir helfen Dir dabei passende Mitarbeiter:innen zu finden und zu kontaktieren, damit Du offene Stellen in kürzester Zeit besetzen können!",
             "subTitle": "Für Unternehmen",
             "title": "Lerne potenzielle Mitarbeiter:innen kennen.",
-            "desc": "worknet ag hilft Dir dabei…",
+            "desc": "",
             "list": [
                 {
                     "id": 1,
@@ -56,7 +56,7 @@
                 }
             ],
             "link":"mailto:info@worknet.ag",
-            "linkText":"Los geht’s"
+            "linkText":"Vakanz melden"
         },
         {
             "id": 3,
@@ -84,8 +84,8 @@
                     "text": "Bei der Neuausrichtung im beruflichen Leben. Für eine individuelle Newplacement Lösung freuen wir uns auf Ihre Kontaktaufnahme."
                 }
             ],
-            "link":"mailto:info@worknet.ag",
-            "linkText":"Los geht’s"
+            "link":"kontakt",
+            "linkText":"Kontakt"
         },
         {
             "id": 4,
@@ -197,7 +197,7 @@
             "id": 1,
             "img": "assets/img/img1.jpg",
             "subTitle": "Für Unternehmen",
-            "title": "Lerne Mitarbeiter:innen kennen, die Du sonst nie getroffen hättest.",
+            "title": "Lerne MitarbeiterInnen kennen, die Du sonst nie getroffen hättest.",
             "content": "Job Angebote bringen kaum gute Bewerbungen?",
             "desc": "Wir helfen Dir dabei passende Mitarbeiter:innen zu finden und zu kontaktieren, damit Du offene Stellen in kürzester Zeit besetzen kannst!",
             "linkText": "Erfahre Mehr",
@@ -260,8 +260,8 @@
             "title": "Lass uns Dein persönlicher Partner werden!",
             "content": "",
             "desc": "Lass uns wissen, welche Fachkraft Du konkret suchst und wir unterstützen Dich zuverlässig dabei, passgenaue temporäre oder festangestellte Mitarbeiter zu finden.",
-            "linkText": "Los geht’s",
-            "link":"mailto:info@worknet.ag"
+            "linkText": "Kontakt",
+            "link":"kontakt"
         }
     ],
     "workwith": [
