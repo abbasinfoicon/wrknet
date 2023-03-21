@@ -26,8 +26,8 @@
                     "text": "Wir erweitern unsere Personallösungen für unsere Kunden stets und passen uns an die individuellen Bedürfnisse unserer Partner an."
                 }
             ],
-            "link":"team",
-            "linkText":"Unser Team"
+            "link": "team",
+            "linkText": "Unser Team"
         },
         {
             "id": 2,
@@ -55,8 +55,8 @@
                     "text": "bei der Rekrutierung Geld zu sparen."
                 }
             ],
-            "link":"mailto:info@worknet.ag",
-            "linkText":"Vakanz melden"
+            "link": "mailto:info@worknet.ag",
+            "linkText": "Vakanz melden"
         },
         {
             "id": 3,
@@ -84,8 +84,8 @@
                     "text": "Bei der Neuausrichtung im beruflichen Leben. Für eine individuelle Newplacement Lösung freuen wir uns auf Ihre Kontaktaufnahme."
                 }
             ],
-            "link":"kontakt",
-            "linkText":"Kontakt"
+            "link": "kontakt",
+            "linkText": "Kontakt"
         },
         {
             "id": 4,
@@ -113,8 +113,8 @@
                     "text": "Wir erweitern unsere Personallösungen für unsere Kunden stets und passen uns an die individuellen Bedürfnisse unserer Partner an."
                 }
             ],
-            "link":"mailto:info@worknet.ag",
-            "linkText":"Jetzt Bewerben"
+            "link": "mailto:info@worknet.ag",
+            "linkText": "Jetzt Bewerben"
         },
         {
             "id": 5,
@@ -128,8 +128,8 @@
             "subTitle": "",
             "title": "",
             "desc": "",
-            "link":"",
-            "linkText":""
+            "link": "",
+            "linkText": ""
         }
     ],
     "slider": [
@@ -201,7 +201,7 @@
             "content": "",
             "desc": "Bist Du auf der Suche nach den Top-Talenten, die Dein Unternehmen auf das nächste Level bringen? Dann hast Du Glück! Wir sind Dein Stellenvermittlungsunternehmen, das sich darauf spezialisiert hat, maßgeschneiderte Lösungen anzubieten.",
             "linkText": "Erfahre Mehr",
-            "link":"unternehmen"
+            "link": "unternehmen"
         },
         {
             "id": 2,
@@ -211,7 +211,7 @@
             "content": "Unser Team weiß, wie zeitraubend die Jobsuche sein kann!",
             "desc": "Deshalb übernehmen auch wir die Arbeit für Dich und bieten Dir Jobs, die zu Deinen Erfahrungen, Wünschen und Gehaltsvorstellungen passen.",
             "linkText": "Erfahre Mehr",
-            "link":"bewerberlnnen"
+            "link": "bewerberlnnen"
         },
         {
             "id": 3,
@@ -221,7 +221,7 @@
             "content": "Erhalte von der worknet ag hoch qualifiziertes Personal für den kurzfristigen Einsatz, um Engpässe oder auch planbare Personalausfälle abzufedern.",
             "desc": "Du entscheidest den Beginn und das Ende der Einsätze, unabhängig davon ob diese projektbezogen bzw. kurz- oder langfristig sind.",
             "linkText": "",
-            "link":""
+            "link": ""
         },
         {
             "id": 4,
@@ -231,7 +231,7 @@
             "content": "Ergänze Dein Unternehmen nachhaltig durch eine professionelle Fachkraft in Festanstellung oder Kaderposition.",
             "desc": "Die worknet ag stützt sich dabei auf bewährte Praktiken der Personalauswahl und führt alle zeitaufwändigen Interviews für Sie durch.!",
             "linkText": "",
-            "link":""
+            "link": ""
         },
         {
             "id": 5,
@@ -241,7 +241,7 @@
             "content": "Die worknet ag übernimmt jeglichen bürokratischen Aufwand.",
             "desc": "Überlasse uns das Vertragsmanagement und die gesamte Lohnadministration Ihres Personals.",
             "linkText": "",
-            "link":""
+            "link": ""
         },
         {
             "id": 6,
@@ -251,7 +251,7 @@
             "content": "Vor einer definitiven Anstellungen kannst Du potenzielle Kandidat:Innen während einer dreimonatigen Probezeit erst richtig kennenlernen.",
             "desc": "In dieser Zeit ist das Personal temporär über worknet ag angestellt, bevor es endgültig von Dir übernommen wird.",
             "linkText": "",
-            "link":""
+            "link": ""
         },
         {
             "id": 7,
@@ -261,7 +261,7 @@
             "content": "",
             "desc": "Lass uns wissen, welche Fachkraft Du konkret suchst und wir unterstützen Dich zuverlässig dabei, passgenaue temporäre oder festangestellte Mitarbeiter zu finden.",
             "linkText": "Kontakt",
-            "link":"kontakt"
+            "link": "kontakt"
         }
     ],
     "workwith": [
@@ -362,8 +362,10 @@
             "name": "Daniele Manco",
             "designation": "ceo",
             "phone": "+41 61 560 10 01",
+            "address": "Kanonengasse 30 4051 Basel",
             "email": "danielemanco@gmail.com",
-            "linkedin": "danielemanco"
+            "linkedin": "danielemanco",
+            "rol":"admin"
         },
         {
             "id": 2,
@@ -372,8 +374,10 @@
             "name": "Nuri Tuerkoglu",
             "designation": "ceo",
             "phone": "+41 61 560 10 01",
+            "address": "Kanonengasse 30 4051 Basel",
             "email": "nurituerkoglu@gmail.com",
-            "linkedin": "nurituerkoglu"
+            "linkedin": "nurituerkoglu",
+            "rol":"admin"
         },
         {
             "id": 3,
@@ -382,8 +386,10 @@
             "name": "Daniele Manco",
             "designation": "ceo",
             "phone": "+41 61 560 10 01",
+            "address": "Kanonengasse 30 4051 Basel",
             "email": "danielemanco@gmail.com",
-            "linkedin": "danielemanco"
+            "linkedin": "danielemanco",
+            "rol":"admin"
         },
         {
             "id": 4,
@@ -392,8 +398,10 @@
             "name": "Nuri Tuerkoglu",
             "designation": "ceo",
             "phone": "+41 61 560 10 01",
+            "address": "Kanonengasse 30 4051 Basel",
             "email": "nurituerkoglu@gmail.com",
-            "linkedin": "nurituerkoglu"
+            "linkedin": "nurituerkoglu",
+            "rol":"admin"
         },
         {
             "id": 5,
@@ -402,8 +410,10 @@
             "name": "Daniele Manco",
             "designation": "ceo",
             "phone": "+41 61 560 10 01",
+            "address": "Kanonengasse 30 4051 Basel",
             "email": "danielemanco@gmail.com",
-            "linkedin": "danielemanco"
+            "linkedin": "danielemanco",
+            "rol":"admin"
         },
         {
             "id": 6,
@@ -412,8 +422,10 @@
             "name": "Nuri Tuerkoglu",
             "designation": "ceo",
             "phone": "+41 61 560 10 01",
+            "address": "Kanonengasse 30 4051 Basel",
             "email": "nurituerkoglu@gmail.com",
-            "linkedin": "nurituerkoglu"
+            "linkedin": "nurituerkoglu",
+            "rol":"admin"
         },
         {
             "id": 7,
@@ -422,8 +434,10 @@
             "name": "Daniele Manco",
             "designation": "ceo",
             "phone": "+41 61 560 10 01",
+            "address": "Kanonengasse 30 4051 Basel",
             "email": "danielemanco@gmail.com",
-            "linkedin": "danielemanco"
+            "linkedin": "danielemanco",
+            "rol":"admin"
         },
         {
             "id": 8,
@@ -432,16 +446,36 @@
             "name": "Nuri Tuerkoglu",
             "designation": "ceo",
             "phone": "+41 61 560 10 01",
+            "address": "Kanonengasse 30 4051 Basel",
             "email": "nurituerkoglu@gmail.com",
-            "linkedin": "nurituerkoglu"
+            "linkedin": "nurituerkoglu",
+            "rol":"admin"
         }
     ],
     "job": [
         {
             "id": 1,
+            "title": "ICT Supporter/IN (w/m/d)",
+            "slug":"ict-supporter-in",
             "img": "assets/img/img9.jpg",
+            "smallDesc": "Als Personalvermittler im Bereich von Temporär- und Dauerstellen sind wir das Bindeglied zwischen Arbeitsuchenden und Unternehmen in verschiedenen Branchen.",
+            "reference": "00000322 - ICT",
+            "department": "Festanstellung",
+            "location": "Liestal",
+            "salary": "1000$",
+            "enployment": "Nach Vereinbarung",
+            "merit": "Graduation",
+            "working": "The pain itself is very important, but it will take a long time. The pain itself is very important, but it will take a very long time.",
+            "empBenefits": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
+            "yourTasks": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
+            "yourProfile": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
+            "contact": "The pain itself is very important, it will be settled sadipscing elitr, but diam nonumy"
+        },
+        {
+            "id": 2,
             "title": "Job (m/w/d) - Jobdetails - Verdienst",
-            "heading": "Jobdetails",
+            "slug":"job-details-verdienst",
+            "img": "assets/img/img9.jpg",
             "smallDesc": "The pain itself is very important, but it will take a long time. The pain itself is very important, but it will take a very long time.",
             "reference": "xxx",
             "department": "Department",
@@ -456,10 +490,28 @@
             "contact": "The pain itself is very important, it will be settled sadipscing elitr, but diam nonumy"
         },
         {
-            "id": 2,
+            "id": 3,
+            "title": "Commercial employee with knowledge of Italian and English 80% - 100%",
+            "slug":"commercial-employee-with-knowledge-of-italian-and-english-80-100",
             "img": "assets/img/img9.jpg",
-            "title": "Job (m/w/d) - Jobdetails - Verdienst",
-            "heading": "Jobdetails",
+            "smallDesc": "The pain itself is very important, but it will take a long time. The pain itself is very important, but it will take a very long time.",
+            "reference": "xxx",
+            "department": "Department",
+            "location": "Lorem ispum",
+            "salary": "xx",
+            "enployment": "Lorem Ispum",
+            "merit": "Lorem Ispum",
+            "working": "The pain itself is very important, but it will take a long time. The pain itself is very important, but it will take a very long time.",
+            "empBenefits": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
+            "yourTasks": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
+            "yourProfile": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
+            "contact": "The pain itself is very important, it will be settled sadipscing elitr, but diam nonumy"
+        },
+        {
+            "id": 4,
+            "title": "Commercial internship Human Resources 80% -100%",
+            "slug":"commercial-inership-human-resorces-80-100",
+            "img": "assets/img/img9.jpg",
             "smallDesc": "The pain itself is very important, but it will take a long time. The pain itself is very important, but it will take a very long time.",
             "reference": "xxx",
             "department": "Department",
