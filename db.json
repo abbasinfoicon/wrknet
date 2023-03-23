@@ -365,7 +365,7 @@
             "address": "Kanonengasse 30 4051 Basel",
             "email": "danielemanco@gmail.com",
             "linkedin": "danielemanco",
-            "rol":"admin"
+            "rol": "admin"
         },
         {
             "id": 2,
@@ -377,7 +377,7 @@
             "address": "Kanonengasse 30 4051 Basel",
             "email": "nurituerkoglu@gmail.com",
             "linkedin": "nurituerkoglu",
-            "rol":"admin"
+            "rol": "admin"
         },
         {
             "id": 3,
@@ -389,7 +389,7 @@
             "address": "Kanonengasse 30 4051 Basel",
             "email": "danielemanco@gmail.com",
             "linkedin": "danielemanco",
-            "rol":"admin"
+            "rol": "admin"
         },
         {
             "id": 4,
@@ -401,7 +401,7 @@
             "address": "Kanonengasse 30 4051 Basel",
             "email": "nurituerkoglu@gmail.com",
             "linkedin": "nurituerkoglu",
-            "rol":"admin"
+            "rol": "admin"
         },
         {
             "id": 5,
@@ -413,7 +413,7 @@
             "address": "Kanonengasse 30 4051 Basel",
             "email": "danielemanco@gmail.com",
             "linkedin": "danielemanco",
-            "rol":"admin"
+            "rol": "admin"
         },
         {
             "id": 6,
@@ -425,7 +425,7 @@
             "address": "Kanonengasse 30 4051 Basel",
             "email": "nurituerkoglu@gmail.com",
             "linkedin": "nurituerkoglu",
-            "rol":"admin"
+            "rol": "admin"
         },
         {
             "id": 7,
@@ -437,7 +437,7 @@
             "address": "Kanonengasse 30 4051 Basel",
             "email": "danielemanco@gmail.com",
             "linkedin": "danielemanco",
-            "rol":"admin"
+            "rol": "admin"
         },
         {
             "id": 8,
@@ -449,21 +449,21 @@
             "address": "Kanonengasse 30 4051 Basel",
             "email": "nurituerkoglu@gmail.com",
             "linkedin": "nurituerkoglu",
-            "rol":"admin"
+            "rol": "admin"
         }
     ],
     "job": [
         {
             "id": 1,
             "title": "ICT Supporter/IN (w/m/d)",
-            "slug":"ict-supporter-in",
+            "slug": "ict-supporter-in",
             "img": "assets/img/img9.jpg",
             "smallDesc": "Als Personalvermittler im Bereich von Temporär- und Dauerstellen sind wir das Bindeglied zwischen Arbeitsuchenden und Unternehmen in verschiedenen Branchen.",
             "reference": "00000322 - ICT",
             "department": "Festanstellung",
             "location": "Liestal",
-            "address":"Kanonengasse 30 4051 Liestal 110091",
-            "city":"Franch",
+            "address": "Kanonengasse 30 4051 Liestal 110091",
+            "city": "Franch",
             "salary": "1000$",
             "enployment": "kaufmannisch",
             "merit": "Graduation",
@@ -472,19 +472,19 @@
             "yourTasks": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
             "yourProfile": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
             "contact": "The pain itself is very important, it will be settled sadipscing elitr, but diam nonumy",
-            "author":"Daniele Manco"
+            "author": "Daniele Manco"
         },
         {
             "id": 2,
             "title": "Job (m/w/d) - Jobdetails - Verdienst",
-            "slug":"job-details-verdienst",
+            "slug": "job-details-verdienst",
             "img": "assets/img/img8.jpg",
             "smallDesc": "The pain itself is very important, but it will take a long time. The pain itself is very important, but it will take a very long time.",
             "reference": "xxx",
             "department": "Temporär",
             "location": "Basel",
-            "address":"Kanonengasse 30 4051 Basel 201301",
-            "city":"Delhi",
+            "address": "Kanonengasse 30 4051 Basel 201301",
+            "city": "Delhi",
             "salary": "2000$",
             "enployment": "Dienstleistung",
             "merit": "CBSC",
@@ -493,19 +493,19 @@
             "yourTasks": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
             "yourProfile": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
             "contact": "The pain itself is very important, it will be settled sadipscing elitr, but diam nonumy",
-            "author":"Nuri Tuerkoglu"
+            "author": "Nuri Tuerkoglu"
         },
         {
             "id": 3,
             "title": "Commercial employee with knowledge of Italian and English 80% - 100%",
-            "slug":"commercial-employee-with-knowledge-of-italian-and-english-80-100",
+            "slug": "commercial-employee-with-knowledge-of-italian-and-english-80-100",
             "img": "assets/img/img7.jpg",
             "smallDesc": "The pain itself is very important, but it will take a long time. The pain itself is very important, but it will take a very long time.",
             "reference": "xxx",
             "department": "Full time",
             "location": "Rheinfelden",
-            "address":"Kanonengasse 30 4051 Rheinfelden 244231",
-            "city":"Paris",
+            "address": "Kanonengasse 30 4051 Rheinfelden 244231",
+            "city": "Paris",
             "salary": "420$",
             "enployment": "Elektriker/in",
             "merit": "High School",
@@ -514,19 +514,19 @@
             "yourTasks": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
             "yourProfile": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
             "contact": "The pain itself is very important, it will be settled sadipscing elitr, but diam nonumy",
-            "author":"Daniele Manco"
+            "author": "Daniele Manco"
         },
         {
             "id": 4,
             "title": "Commercial internship Human Resources 80% -100%",
-            "slug":"commercial-inership-human-resorces-80-100",
+            "slug": "commercial-inership-human-resorces-80-100",
             "img": "assets/img/img6.jpg",
             "smallDesc": "The pain itself is very important, but it will take a long time. The pain itself is very important, but it will take a very long time.",
             "reference": "xxx",
             "department": "Mini-job",
             "location": "Möhlin",
-            "address":"Kanonengasse 30 4051 Möhlin 625893",
-            "city":"Tokio",
+            "address": "Kanonengasse 30 4051 Möhlin 625893",
+            "city": "Tokio",
             "salary": "820$",
             "enployment": "Maler/in",
             "merit": "Graduation",
@@ -535,7 +535,103 @@
             "yourTasks": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
             "yourProfile": "The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time. The pain itself is very important, but it will take a very long time.",
             "contact": "The pain itself is very important, it will be settled sadipscing elitr, but diam nonumy",
-            "author":"Nuri Tuerkoglu"
+            "author": "Nuri Tuerkoglu"
+        }
+    ],
+    "enployment": [
+        {
+            "id": 1,
+            "name": "Dienstleistung"
+        },
+        {
+            "id": 2,
+            "name": "Elektriker/in"
+        },
+        {
+            "id": 3,
+            "name": "Kaufmännisch"
+        },
+        {
+            "id": 4,
+            "name": "Maler/in"
+        }
+    ],
+    "department": [
+        {
+            "id": 1,
+            "name": "Festanstellung"
+        },
+        {
+            "id": 2,
+            "name": "Full time"
+        },
+        {
+            "id": 3,
+            "name": "Mini-job"
+        },
+        {
+            "id": 4,
+            "name": "Night shifts"
+        },
+        {
+            "id": 5,
+            "name": "Part time - flexible"
+        },
+        {
+            "id": 6,
+            "name": "Part time - shift"
+        },
+        {
+            "id": 7,
+            "name": "Part time in the afternoon"
+        },
+        {
+            "id": 8,
+            "name": "Part time in the evening"
+        },
+        {
+            "id": 9,
+            "name": "Part time in the morning"
+        },
+        {
+            "id":10,
+            "name": "Praktikum"
+        },
+        {
+            "id": 11,
+            "name": "Shift"
+        },
+        {
+            "id": 12,
+            "name": "Shift / Night shifts / Weekends"
+        },
+        {
+            "id": 13,
+            "name": "Teilzeit"
+        },
+        {
+            "id": 14,
+            "name": "Temporär"
+        },
+        {
+            "id": 15,
+            "name": "Temporör"
+        },
+        {
+            "id": 16,
+            "name": "Unbefristet"
+        },
+        {
+            "id": 17,
+            "name": "Vollzeit, Teilzeit möglich"
+        },
+        {
+            "id": 18,
+            "name": "Weekend"
+        },
+        {
+            "id": 19,
+            "name": "Work from home/telework"
         }
     ]
 }
