@@ -540,98 +540,98 @@
     ],
     "enployment": [
         {
-            "id": 1,
-            "name": "Dienstleistung"
+            "value": "dienstleistung",
+            "label": "Dienstleistung"
         },
         {
-            "id": 2,
-            "name": "Elektriker/in"
+            "value": "elektrikerin",
+            "label": "Elektriker/in"
         },
         {
-            "id": 3,
-            "name": "Kaufmännisch"
+            "value": "kaufmännisch",
+            "label": "Kaufmännisch"
         },
         {
-            "id": 4,
-            "name": "Maler/in"
+            "value": "malerin",
+            "label": "Maler/in"
         }
     ],
     "department": [
         {
-            "id": 1,
-            "name": "Festanstellung"
+            "value": "festanstellung",
+            "label": "Festanstellung"
         },
         {
-            "id": 2,
-            "name": "Full time"
+            "value": "fulltime",
+            "label": "Full time"
         },
         {
-            "id": 3,
-            "name": "Mini-job"
+            "value": "minijob",
+            "label": "Mini-job"
         },
         {
-            "id": 4,
-            "name": "Night shifts"
+            "value": "nightshift",
+            "label": "Night shifts"
         },
         {
-            "id": 5,
-            "name": "Part time - flexible"
+            "value": "ptflexible",
+            "label": "Part time - flexible"
         },
         {
-            "id": 6,
-            "name": "Part time - shift"
+            "value": "ptshift",
+            "label": "Part time - shift"
         },
         {
-            "id": 7,
-            "name": "Part time in the afternoon"
+            "value": "ptafternoon",
+            "label": "Part time in the afternoon"
         },
         {
-            "id": 8,
-            "name": "Part time in the evening"
+            "value": "ptevening",
+            "label": "Part time in the evening"
         },
         {
-            "id": 9,
-            "name": "Part time in the morning"
+            "value": "ptmonring",
+            "label": "Part time in the morning"
         },
         {
-            "id":10,
-            "name": "Praktikum"
+            "value": "praktikum",
+            "label": "Praktikum"
         },
         {
-            "id": 11,
-            "name": "Shift"
+            "value": "shift",
+            "label": "Shift"
         },
         {
-            "id": 12,
-            "name": "Shift / Night shifts / Weekends"
+            "value": "weekendshift",
+            "label": "Shift / Night shifts / Weekends"
         },
         {
-            "id": 13,
-            "name": "Teilzeit"
+            "value": "teilzeit",
+            "label": "Teilzeit"
         },
         {
-            "id": 14,
-            "name": "Temporär"
+            "value": "temporär",
+            "label": "Temporär"
         },
         {
-            "id": 15,
-            "name": "Temporör"
+            "value": "temporör",
+            "label": "Temporör"
         },
         {
-            "id": 16,
-            "name": "Unbefristet"
+            "value": "unbefristet",
+            "label": "Unbefristet"
         },
         {
-            "id": 17,
-            "name": "Vollzeit, Teilzeit möglich"
+            "value": "vollzeit",
+            "label": "Vollzeit, Teilzeit möglich"
         },
         {
-            "id": 18,
-            "name": "Weekend"
+            "value": "weekend",
+            "label": "Weekend"
         },
         {
-            "id": 19,
-            "name": "Work from home/telework"
-        }
+            "value": "wfh",
+            "label": "Work from home/telework"
+        },
     ]
 }
